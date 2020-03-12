@@ -1,5 +1,5 @@
 pipline {
-    angent any
+    agent any
     stages {
         stage ('Build') {
             steps {
